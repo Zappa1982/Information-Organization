@@ -37,7 +37,7 @@ activities through before, after school and summer programs?
 New Dataset Citation:
 ---------------------
 
-* Marciano, F. S. (2015). Merged Howard County Schools & Columbia Association Pools Datasets. [Data file].
+* Marciano, F. S. (2015). Merged Howard County Schools & Columbia Association Pools Datasets. Unpublished raw data.
  
 
 License:
