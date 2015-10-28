@@ -1,23 +1,18 @@
-#INFM600 – Information Organization
+# INFM600 – Information Organization
 
 
 Dataset Description:
 --------------------
-
-      The focal dataset for this project shows the number of elementary, middle, and 
-      high schools in Howard County. The dataset provides the school names and addresses 
-      for all schools inside the county. The datasets show 41 elementary schools, 
-      21 middle schools, and 13 high schools. For this project in particular we are 
-      focused on the schools in the Columbia Association (CA) boundaries. The processing 
-      document will describe how the datasets are to be combined into one focal dataset.
+      
+The focal dataset for this project shows the number of elementary, middle, and high schools in Howard County. The dataset provides the school names and addresses for all schools in Howard County. The datasets show 41 elementary schools, 21 middle schools, 13 high schools. For this project in particular we are focused on the schools in theColumbia Association (CA) boundaries. The processing document will describe how the datasets were merged.
       
 * Howard County, Maryland. (2015). Schools - Elementary [Data file]. Available from https://data.howardcountymd.gov/.
 * Howard County, Maryland. (2015). Schools - Middle [Data file]. Available from https://data.howardcountymd.gov/.
 * Howard County, Maryland. (2015). Schools - High [Data file]. Available from https://data.howardcountymd.gov/.
 
-      One additional dataset to be combined with the focal dataset shows the number of CA pool sites. This dataset provides
-      names and addresses for all of the CA pools spread throughout the villages. CA currently has 24 pools located 
-      throughout the villages. 
+      One additional dataset to be combined with the focal dataset shows the number of CA 
+      pool sites. This dataset provides names and addresses for all of the CA pools spread 
+      throughout the villages. CA currently has 24 pools located throughout the villages. 
       
 * Howard County, Maryland. (2015). Pools – Columbia Association [Data file]. Available from https://data.howardcountymd.gov/.
 
@@ -53,11 +48,9 @@ New Dataset Citation:
 License:
 --------
 
-      This work is licensed under the Creative Commons Attribution 4.0 International License. 
-      To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
 
-      The datasets are available to the public at https://data.howardcountymd.gov/ and is 
-      licensed under a Creative Commons Attribution 4.0 International License.
+The datasets are available to the public at https://data.howardcountymd.gov/ and is licensed under a Creative Commons Attribution 4.0 International License.
 
 
 
