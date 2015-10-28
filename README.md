@@ -22,7 +22,7 @@ The second dataset to be combined with the focal dataset shows Park Pavilions lo
 Process Documentation File:
 --------------------------
 
-Process Documentation.docx.
+* Process Documentation.docx.
 
 
 Questions:
