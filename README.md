@@ -10,16 +10,11 @@ The focal dataset for this project shows the number of elementary, middle, and h
 * Howard County, Maryland. (2015). Schools - Middle [Data file]. Available from https://data.howardcountymd.gov/.
 * Howard County, Maryland. (2015). Schools - High [Data file]. Available from https://data.howardcountymd.gov/.
 
-      One additional dataset to be combined with the focal dataset shows the number of CA 
-      pool sites. This dataset provides names and addresses for all of the CA pools spread 
-      throughout the villages. CA currently has 24 pools located throughout the villages. 
+One additional dataset to be combined with the focal dataset shows the number of CA pool sites. This dataset provides names and addresses for all of the CA pools spread throughout the villages. CA currently has 24 pools located throughout the villages. 
       
 * Howard County, Maryland. (2015). Pools – Columbia Association [Data file]. Available from https://data.howardcountymd.gov/.
 
-      The second dataset to be combined with the focal dataset shows Park Pavilions located on Howard County parkland. This
-      dataset provides the names of the parks, along with several descriptive columns like rentable space, parks with a
-      Gazebo, fireplace, as well as latitude and longitude location points. This dataset shows 30 Park Pavilions located in
-      Howard County. For this project we are focused on the ones located within the CA boundaries. 
+The second dataset to be combined with the focal dataset shows Park Pavilions located on Howard County parkland. This dataset provides the names of the parks, along with several descriptive columns like rentable space, parks with a Gazebo, fireplace, as well as latitude and longitude location points. This dataset shows 30 Park Pavilions located in Howard County. For this project we are focused on the ones located within the CA boundaries. 
       
 * Howard County, Maryland. (2015). Park Pavilions [Data file]. Available from https://data.howardcountymd.gov/.
 
