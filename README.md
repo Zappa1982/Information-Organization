@@ -11,12 +11,9 @@ Dataset Description:
       boundaries. The processing document will describe how the datasets are to be combined into 
       one focal dataset.
       
-* Howard County, Maryland. (2015). Schools - Elementary [Data file]. 
-* Available from https://data.howardcountymd.gov/.
-* Howard County, Maryland. (2015). Schools - Middle [Data file]. 
-* Available from https://data.howardcountymd.gov/.
-* Howard County, Maryland. (2015). Schools - High [Data file]. 
-* Available from https://data.howardcountymd.gov/.
+* Howard County, Maryland. (2015). Schools - Elementary [Data file]. Available from https://data.howardcountymd.gov/.
+* Howard County, Maryland. (2015). Schools - Middle [Data file]. Available from https://data.howardcountymd.gov/.
+* Howard County, Maryland. (2015). Schools - High [Data file]. Available from https://data.howardcountymd.gov/.
 
       One additional dataset to be combined with the focal dataset shows the number of CA pool sites. This dataset provides
       names and addresses for all of the CA pools spread throughout the villages. CA currently has 24 pools located 
