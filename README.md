@@ -1,13 +1,14 @@
 #INFM600 – Information Organization
-____________________________________________________________________________________
---------------------
+
+
 Dataset Description:
 --------------------
 
-      The focal dataset for this project shows the number of elementary, middle, and high schools in Howard County. The
-      dataset provides the school names and addresses for all schools inside the county. The datasets show 41 elementary
-      schools, 21 middle schools, and 13 high schools. For this project in particular we are focused on the schools in the
-      Columbia Association (CA) boundaries. The processing document will describe how the datasets are to be combined into
+      The focal dataset for this project shows the number of elementary, middle, and high schools
+      in Howard County. The dataset provides the school names and addresses for all schools inside 
+      the county. The datasets show 41 elementary schools, 21 middle schools, and 13 high schools. 
+      For this project in particular we are focused on the schools in the Columbia Association (CA) 
+      boundaries. The processing document will describe how the datasets are to be combined into 
       one focal dataset.
       
 * Howard County, Maryland. (2015). Schools - Elementary [Data file]. Available from https://data.howardcountymd.gov/.
@@ -27,13 +28,13 @@ Dataset Description:
       
 * Howard County, Maryland. (2015). Park Pavilions [Data file]. Available from https://data.howardcountymd.gov/.
 
---------------------------
+
 Process Documentation File:
 --------------------------
 
 Process Documentation.docx.
 
-----------
+
 Questions:
 ----------
 
@@ -42,17 +43,18 @@ school activities to incentivize further learning and healthy living?
 2. How can CA target specific parks closest to local schools as a means of getting kids involved in healthy physical fitness
 activities through before, after school and summer programs?
 
----------------------
+
 New Dataset Citation:
 ---------------------
 
 * Marciano, F. S. (2015). Merged Howard County Schools & Columbia Association Pools Datasets. [Data file].
  
---------
+
 License:
 --------
 
-      This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+      This work is licensed under the Creative Commons Attribution 4.0 International License. 
+      To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
 
 
 
